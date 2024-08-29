@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0klt0N6UyMeM-NJTf7GIKkmvQAvCTjX98FA&s)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*bVWJ2zs3J8y6bvq9Ql9tyQ.png)
 
 
 
