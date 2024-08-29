@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*bVWJ2zs3J8y6bvq9Ql9tyQ.png)
+![MasterHead](https://www.talentcoders.co/wp-content/uploads/2023/07/bilgisayar-programciligi-nedir-ne-is-yapar-1024x320.jpeg)
 
 
 
