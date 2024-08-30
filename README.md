@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/şahin karaoğlan" target="blank"><img align="center" src="https://www.linkedin.com/in/%C5%9Fahin-karao%C4%9Flan-8a9217235/" alt="şahin karaoğlan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/şahin karaoğlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şahin karaoğlan" height="30" width="40" /></a>
 <a href="https://kaggle.com/sahinkaraoglann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahinkaraoglann" height="30" width="40" /></a>
 <a href="https://instagram.com/sahinkaraoglan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahinkaraoglan16" height="30" width="40" /></a>
 </p>
