@@ -51,16 +51,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahinkaraoglan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahinkaraoglan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinkaraoglan&theme=radical" alt="GitHub Streak" />
-</div>
