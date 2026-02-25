@@ -57,10 +57,10 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahinkaraoglan&show_icons=true&locale=en&theme=radical" alt="sahinkaraoglan" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahinkaraoglan&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahinkaraoglan" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahinkaraoglan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahinkaraoglan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinkaraoglan&theme=radical" alt="sahinkaraoglan streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinkaraoglan&theme=radical" alt="GitHub Streak" />
 </div>
