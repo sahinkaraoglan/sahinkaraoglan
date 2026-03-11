@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Computer Engineering & Coding" width="100%">
+  <img src="header.png" alt="Computer Engineering & Coding" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Şahin Karaoğlan</h1>
@@ -22,7 +22,7 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/şahin karaoğlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şahin karaoğlan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/şahin-karaoğlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şahin karaoğlan" height="30" width="40" /></a>
 <a href="https://kaggle.com/sahinkaraoglann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahinkaraoglann" height="30" width="40" /></a>
 <a href="https://instagram.com/sahinnkaraoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahinnkaraoglan" height="30" width="40" /></a>
 </p>
