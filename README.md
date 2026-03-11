@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Computer Engineering & Coding" width="100%">
+  <img src="header.png" alt="Şahin Karaoğlan - Full Stack Developer" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Şahin Karaoğlan</h1>
